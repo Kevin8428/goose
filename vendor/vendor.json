@@ -1,0 +1,67 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "QD6LqgLz2JMxXqns8TaxtK9AuHs=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "2e00b5cd70399450106cec6431c2e2ce3cae5034",
+			"revisionTime": "2016-12-24T12:10:19Z"
+		},
+		{
+			"checksumSHA1": "5f/QhGjPgETWzP3aS9WdGFqoT1I=",
+			"path": "github.com/lib/pq",
+			"revision": "472a0745531a17dbac346e828b4c60e73ddff30c",
+			"revisionTime": "2017-03-13T20:04:23Z"
+		},
+		{
+			"checksumSHA1": "Gk3jTNQ5uGDUE0WMJFWcYz9PMps=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "472a0745531a17dbac346e828b4c60e73ddff30c",
+			"revisionTime": "2017-03-13T20:04:23Z"
+		},
+		{
+			"checksumSHA1": "HuW5g535PhU4F2sN5J2o5GL459c=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "866c3293d9a76aa491e56cc978d0d7fb0e63e121",
+			"revisionTime": "2017-03-21T00:14:48Z"
+		},
+		{
+			"checksumSHA1": "DlluWynwXpRWdfrK9zW7wjV26BM=",
+			"path": "github.com/pressly/goose",
+			"revision": "90a6d29bb6361c76b597e153e22c91f1fede640f",
+			"revisionTime": "2017-03-21T16:17:36Z"
+		},
+		{
+			"checksumSHA1": "cD+xRRlsZSfZWgznGgTyZES6m3U=",
+			"path": "github.com/pressly/goose/example/migrations-go",
+			"revision": "90a6d29bb6361c76b597e153e22c91f1fede640f",
+			"revisionTime": "2017-03-21T16:17:36Z"
+		},
+		{
+			"checksumSHA1": "Ak1mii27DHhEIjLnNqhK2HNibxg=",
+			"path": "github.com/ziutek/mymysql/godrv",
+			"revision": "0582bcf675f52c0c2045c027fd135bd726048f45",
+			"revisionTime": "2017-02-06T13:45:17Z"
+		},
+		{
+			"checksumSHA1": "gwF3W8Ao7UYRmu8sJyOGnZPxZcc=",
+			"path": "github.com/ziutek/mymysql/mysql",
+			"revision": "0582bcf675f52c0c2045c027fd135bd726048f45",
+			"revisionTime": "2017-02-06T13:45:17Z"
+		},
+		{
+			"checksumSHA1": "x5wFYF5U9/AMBxJ5LQZayskPW7o=",
+			"path": "github.com/ziutek/mymysql/native",
+			"revision": "0582bcf675f52c0c2045c027fd135bd726048f45",
+			"revisionTime": "2017-02-06T13:45:17Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"path": "golang.org/x/net/context",
+			"revision": "a6577fac2d73be281a500b310739095313165611",
+			"revisionTime": "2017-03-08T20:54:49Z"
+		}
+	],
+	"rootPath": "github.com/goose"
+}
